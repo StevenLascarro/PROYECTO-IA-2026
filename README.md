@@ -1,6 +1,6 @@
 # Predicción de fallas en máquinas utilizando datos de sensores
 ![Banner del proyecto](BANNER_PROYECTOIA26.png)
-Proyecto académico de Inteligencia Artificial (UIS, 2026).
+
 
 ## Objetivo
 Analizar datos de sensores y desarrollar modelos para clasificar registros según la variable `fail` (0 = no falla, 1 = falla). Como etapa adicional, se exploran agrupamientos no supervisados con PCA, K-Means y DBSCAN.
@@ -69,4 +69,4 @@ Resultados de prueba registrados:
 - Diapositivas PDF: `Diapositivas_Proyecto_IA_2026.pdf`
 - Banner: `banner_proyecto.png`
 - Video: [AGREGAR URL DE YOUTUBE]
-- Repositorio: [AGREGAR URL DE GITHUB]
+- Dataset: https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data
