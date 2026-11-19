@@ -16,8 +16,8 @@ y la variable objetivo `fail`.
 
 **Ubicación usada en Google Colab:** `/content/drive/MyDrive/IA_2026-2/ProyectoIA.csv`
 
-El CSV no se incluye en este repositorio. Agrega aquí el enlace público/origen del dataset si el profesor lo solicita:
 - URL del dataset: https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data
+- URL del video: https://youtu.be/PAXUSwal2bk
 
 ## Contenido del repositorio
 - `Proyecto_FINAL_IA2026.ipynb`: notebook acumulativo con las tres etapas.
