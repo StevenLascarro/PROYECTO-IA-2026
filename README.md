@@ -19,13 +19,6 @@ y la variable objetivo `fail`.
 - URL del dataset: https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data
 - URL del video: https://youtu.be/PAXUSwal2bk
 
-## Contenido del repositorio
-- `Proyecto_FINAL_IA2026.ipynb`: notebook acumulativo con las tres etapas.
-- `Diapositivas_Proyecto_IA_2026.pdf`: resumen de las tres sustentaciones.
-- `banner_proyecto.png`: banner del proyecto.
-- `README.md`: descripción y guía de ejecución.
-- `video_url.txt`: enlace al video de sustentación (máximo 4 minutos).
-
 ## Etapas del proyecto
 
 ### 1. Exploración y preparación
