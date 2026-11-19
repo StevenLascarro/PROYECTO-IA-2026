@@ -1,5 +1,5 @@
 # Predicción de fallas en máquinas utilizando datos de sensores
-
+![Banner del proyecto](BANNER_PROYECTOIA26.png)
 Proyecto académico de Inteligencia Artificial (UIS, 2026).
 
 ## Objetivo
